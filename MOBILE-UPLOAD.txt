@@ -1,0 +1,26 @@
+MOBILE UPLOAD TO GITHUB
+
+1. Extract this ZIP on your phone.
+2. Open your GitHub repository in Chrome.
+3. Tap Add file -> Upload files.
+4. Upload these root files first:
+   index.html
+   page2.html
+   page3.html
+   page4.html
+   page5.html
+   page6.html
+   page7.html
+   style.css
+   script.js
+   README.md
+5. Commit changes.
+6. Then create/open an `assets` folder in the repo and upload ALL files from the extracted assets folder:
+   photo1.jpg ... photo6.jpg
+   video1.mp4 ... video3.mp4
+   video1-poster.jpg ... video3-poster.jpg
+7. Commit changes.
+8. GitHub Pages: Settings -> Pages -> Deploy from a branch -> main -> / (root) -> Save.
+
+IMPORTANT:
+Keep the `assets` folder name exactly `assets`, and keep all filenames unchanged.
